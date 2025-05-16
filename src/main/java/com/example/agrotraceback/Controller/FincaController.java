@@ -2,7 +2,7 @@ package com.example.agrotraceback.Controller;
 
 import com.example.agrotraceback.DTO.FincaDTO;
 import com.example.agrotraceback.JPA.FincaJPA;
-import com.example.agrotraceback.JPA.FincaRepository;
+import com.example.agrotraceback.ORM.FincaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

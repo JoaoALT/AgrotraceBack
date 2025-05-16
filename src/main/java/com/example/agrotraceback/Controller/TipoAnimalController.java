@@ -2,7 +2,7 @@ package com.example.agrotraceback.Controller;
 
 import com.example.agrotraceback.DTO.TipoAnimalDTO;
 import com.example.agrotraceback.JPA.TipoAnimalJPA;
-import com.example.agrotraceback.JPA.TipoAnimalRepository;
+import com.example.agrotraceback.ORM.TipoAnimalRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
